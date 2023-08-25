@@ -54,12 +54,12 @@
         'git@github.com:jobiols/jeo-enterprise.git',
 
         # ingadhoc
-        'https://github.com/ingadhoc/account-financial-tools sub_loca/account-financial-tools',
-        'https://github.com/ingadhoc/account-payment sub_loca/account-payment',
-        'https://github.com/ingadhoc/odoo-argentina sub_loca/odoo-argentina',
-        'https://github.com/ingadhoc/argentina-sale sub_loca/argentina-sale',
-        'https://github.com/ingadhoc/account-invoicing.git sub_loca/account-invoicing',
-        'https://github.com/ingadhoc/odoo-argentina-ee sub_loca/odoo-argentina-ee',
+        'https://github.com/ingadhoc/account-financial-tools',
+        'https://github.com/ingadhoc/account-payment',
+        'https://github.com/ingadhoc/odoo-argentina',
+        'https://github.com/ingadhoc/argentina-sale',
+        'https://github.com/ingadhoc/account-invoicing.git',
+        'https://github.com/ingadhoc/odoo-argentina-ee',
     ],
 
     # list of images to use in the form 'name image-url'
