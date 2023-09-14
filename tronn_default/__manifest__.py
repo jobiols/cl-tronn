@@ -61,7 +61,9 @@
         'https://github.com/ingadhoc/account-invoicing.git',
         'https://github.com/ingadhoc/odoo-argentina-ee',
         'https://github.com/ingadhoc/stock.git',
+        
         'https://github.com/OCA/stock-logistics-workflow.git',
+        'https://github.com/OCA/web.git',
     ],
 
     # list of images to use in the form 'name image-url'
