@@ -59,7 +59,7 @@
         'https://github.com/ingadhoc/odoo-argentina',
         'https://github.com/ingadhoc/argentina-sale',
         'https://github.com/ingadhoc/account-invoicing.git',
-        'https://github.com/ingadhoc/odoo-argentina-ce',
+        'https://github.com/ingadhoc/odoo-argentina-ee',
         'https://github.com/ingadhoc/stock.git',
 
         'https://github.com/OCA/reporting-engine.git',
